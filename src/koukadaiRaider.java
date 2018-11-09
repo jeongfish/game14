@@ -3,6 +3,7 @@ import com.sun.media.jfxmedia.events.PlayerStateEvent;
 /**
  * Created by takumi on 2018/11/02.
  */
+// TEST
 public class koukadaiRaider {
     public static void main(String[] args) {
         System.out.println("ゲーム開始");
